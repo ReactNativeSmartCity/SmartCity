@@ -1,0 +1,16 @@
+Cimcon Lighting Adapter with Transformation into the Virtual Device Model for Lighting	Build and validate the model & Taxonomy for Lighting	 	 	 	 
+ 	Virtual Device Model definition for Lighting (not specific to Cimcon)	 	 	 	 
+ 	Cimcon specific Model definition	 	 	 	 
+ 	Translation between the models	 	 	 	 
+ 	 	 	 	 	 
+ThingSpace API definition for Lighting Controls and mapping to Cimcon Lighting APIs (via Adapter)	 	 	 	 	 
+ 	ThingSpace V2 API definition for Lighting Controls	 	 	 	 
+ 	Mapping TS V2 APIs to Cimcon Lighting APIs	 	 	 	 
+ 	 	 	 	 	 
+Integration of Lighting functionality into ThingSpace with Rules storage and execution through Lighting APIs	 	 	 	 	 
+ 	Lighting Application to integrate into TS	 	 	 	 
+ 	Rules Engine (TS or outside TS) - follow CoHo architecture	 	 	 	 
+ 	Rules UI 	 	 	 	 
+ 	Rules Storage	 	 	 	 
+ 	Rules API and integration to UI	 	 	 	 
+ 	Rules Execution
